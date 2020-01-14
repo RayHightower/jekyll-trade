@@ -4,12 +4,12 @@ description: >- # this means to ignore newlines until "baseurl:"
  TraBridgetown Partners, LLC -  Building software for the commercial real estate industry.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
-facebook_url: https://www.facebook.com/jekyll
-twitter_url: https://twitter.com/tryghost
-github_url:  https://github.com/TryGhost/Ghost
-pinterest_url: https://www.pinterest.com/rubel8525
-linkedin_url: https://www.linkenin.com/rubel8525
-instagram_url: https://www.instagram.com/rubel8525
+facebook_url: https://www.facebook.com/BridgetownPartners
+twitter_url: https://twitter.com/BridgetownPtrs
+github_url:  https://github.com/BridgetownPartners
+pinterest_url: 
+linkedin_url: https://www.linkedin.com/company/bridgetownpartners
+instagram_url: https://www.instagram.com/bridgetownpartners
 logo: "/assets/img/logo/logo.png"
 logo_2: "/assets/img/logo/logo_2.png"
 mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
