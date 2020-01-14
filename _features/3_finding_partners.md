@@ -2,7 +2,7 @@
 layout: featured
 title: Finding Partners
 image: /assets/img/service/details/sevice-details.jpg
-description: Successful operators need partners who specialize in management, construction, or financing.
+description: Successful operators need partners with skills in management, construction, or financing.
 ---
 
 <div class="row">

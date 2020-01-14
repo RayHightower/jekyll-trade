@@ -1,6 +1,6 @@
 ---
 layout: featured
-title: Paperwork
+title: Handling Paperwork
 image: /assets/img/features/01.jpg
 description: Managing a flood of documents related to leases, financing, and government regulations.
 ---

@@ -1,8 +1,8 @@
 ---
 layout: featured
-title: Dedicated support
+title: Creating Deal Flow
 image: /assets/img/features/02.jpg
-description: Dedicated support quaerat parturient denouncing pleasure and praising pain was born and I will give you a complete.
+description: Finding deals that make economic sense for you, your tenants, and your investors.
 ---
 
 <div class="row">
