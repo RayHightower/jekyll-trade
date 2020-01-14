@@ -1,9 +1,9 @@
 title: "Bridgetown Partners, LLC -  Building software for the commercial real estate industry."
 email: "info@bridgetownpartners.com"
 description: >- # this means to ignore newlines until "baseurl:"
- TraBridgetown Partners, LLC -  Building software for the commercial real estate industry.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
+ Bridgetown Partners, LLC -  Building software for the commercial real estate industry.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "/" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
 facebook_url: https://www.facebook.com/BridgetownPartners
 twitter_url: https://twitter.com/BridgetownPtrs
 github_url:  https://github.com/BridgetownPartners
