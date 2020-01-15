@@ -13,12 +13,16 @@
             {% for commune in site.community %}
             <div class="col-xl-4 col-lg-4 col-md-6 mb-50 ">
                 <div class="services-box">
-                    <div class="services-img">
-                        <img src="{{commune.image}}" class="img-fluid" alt="{{commune.title}}">
+                    <div class="services-img-not">
+                        <p>&nbsp;<br/></p>
+                        <img src="{{commune.image}}" halign="right" width ="150" alt="{{commune.title}}">
                     </div>
                     <div class="services-content">
                         <div class="card-title">
-                            <h5><a href="{{commune.url}}">{{commune.title}}</a></h5>
+                            <!-- <h5><a href="{{commune.url}}">{{commune.title}}</a></h5> -->
+                        
+                            <h5>&nbsp;<br/>{{commune.title}}</h5>
+                    
                         </div>
                         <div class="card-text">
                             <p>{{commune.description}}</p>

@@ -1,14 +1,14 @@
 ---
 layout: featured
-title: Finding Partners
-image: /assets/img/service/details/sevice-details.jpg
-description: Successful operators need partners with skills in management, construction, or financing.
+title: BizDay.LA
+image: /assets/img/community/BizDayLA.png
+description: Bridgetown Partners joined forces with other entrepreneurs to create <a href="http://bizday.la">BizDay.LA</a> in Los Angeles. BizDay.LA is an exciting event for current and aspiring business owners. To learn more, check out the videos from the Jan2020 inaugural event.
 ---
 
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <h3>Business Analysis</h3>
+            <h3>Dedicated support quaerat parturient denouncing</h3>
             <p>Consectetuer adipiscing elit, sed diam nonumy nibh euismod tincidunt ut laoreet
                 dolore mage aliquami erat volpate Ut wisi
                 enim ad minim veniam, quis nostrud exerci tation corper cipit lobortis nisl ut
@@ -20,7 +20,7 @@ description: Successful operators need partners with skills in management, const
 <div class="row">
     <div class="col-xl-6 col-lg-12">
         <div class="s-details-img mb-30">
-            <img src="{{site.baseurl}}/assets/img/service/details/01.jpg" alt="tincidunt">
+            <img src="{{site.baseurl}}/assets/img/service/2.jpg" alt="{{page.title}}">
         </div>
     </div>
     <div class="col-xl-6 col-lg-12">

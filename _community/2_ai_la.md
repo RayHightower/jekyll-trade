@@ -1,8 +1,8 @@
 ---
 layout: featured
-title: Handling Paperwork
-image: /assets/img/features/01.jpg
-description: Managing a flood of documents related to leases, financing, and government regulations.
+title: AI.LA
+image: /assets/img/community/AILA_logo.png
+description: Artificial Intelligence plays a powerful role in today's software. The best way to stay in the loop on rapidly-moving technology is to join with like-minded technologists and entrepreneurs. That’s why we support the Los Angeles AI community through AI.LA.
 ---
 
 <div class="row">

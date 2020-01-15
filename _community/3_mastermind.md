@@ -1,14 +1,15 @@
 ---
 layout: featured
-title: Creating Deal Flow
-image: /assets/img/features/02.jpg
-description: Finding deals that make economic sense for you, your tenants, and your investors.
+title: LA Groups
+image: /assets/img/community/int_inv.png
+description: When like-minded people gather together for a shared purpose, every member of the group gets smarter. Napoleon Hill called it “the mastermind”. Forums like <a href="https://intelligentinvestors2020.splashthat.com/">The Intelligent Investor Real Estate Conference</a> and <a href="https://forinvestorsbyinvestors.com/">For Investors, By Investors</a> are two where investors meet and grow.
+
 ---
 
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <h3>Dedicated support quaerat parturient denouncing</h3>
+            <h3>Condimentum consectetur quaerat parturient denouncing</h3>
             <p>Consectetuer adipiscing elit, sed diam nonumy nibh euismod tincidunt ut laoreet
                 dolore mage aliquami erat volpate Ut wisi
                 enim ad minim veniam, quis nostrud exerci tation corper cipit lobortis nisl ut
@@ -20,7 +21,7 @@ description: Finding deals that make economic sense for you, your tenants, and y
 <div class="row">
     <div class="col-xl-6 col-lg-12">
         <div class="s-details-img mb-30">
-            <img src="{{site.baseurl}}/assets/img/service/2.jpg" alt="{{page.title}}">
+            <img src="{{site.baseurl}}/assets/img/service/1.jpg" alt="{{page.title}}">
         </div>
     </div>
     <div class="col-xl-6 col-lg-12">
