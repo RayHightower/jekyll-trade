@@ -10,20 +10,20 @@
             </div>
         </div>
         <div class="row">
-            {% for community in site.communities %}
+            {% for commune in site.community %}
             <div class="col-xl-4 col-lg-4 col-md-6 mb-50 ">
                 <div class="services-box">
                     <div class="services-img">
-                        <img src="{{community.image}}" class="img-fluid" alt="{{community.title}}">
+                        <img src="{{commune.image}}" class="img-fluid" alt="{{commune.title}}">
                     </div>
                     <div class="services-content">
                         <div class="card-title">
-                            <h5><a href="{{community.url}}">{{community.title}}</a></h5>
+                            <h5><a href="{{commune.url}}">{{commune.title}}</a></h5>
                         </div>
                         <div class="card-text">
-                            <p>{{community.description}}</p>
+                            <p>{{commune.description}}</p>
                         </div>
-                       <!-- <a href="{{community.url}}" class="btn">Read More</a> -->
+                       <!-- <a href="{{commune.url}}" class="btn">Read More</a> -->
                     </div>
                 </div>
             </div>
