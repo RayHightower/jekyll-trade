@@ -812,6 +812,7 @@ label {
 .services-img {
 	margin-bottom: 25px;
 	overflow: hidden;
+	align: center;
 }
 .services-img img {
 	transition: all 2s ease;
