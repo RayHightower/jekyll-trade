@@ -2,7 +2,7 @@
 layout: featured
 title: LA Groups
 image: /assets/img/community/int_inv.png
-description: When like-minded people gather together for a shared purpose, every member of the group gets smarter. Napoleon Hill called it “the mastermind”. Forums like <a href="https://intelligentinvestors2020.splashthat.com/">The Intelligent Investor Real Estate Conference</a> and <a href="https://forinvestorsbyinvestors.com/">For Investors, By Investors</a> are two where investors meet and grow.
+description: When like-minded people gather together for a shared purpose, every member of the group gets smarter. Napoleon Hill called it “the mastermind”. Forums like <a href="https://intelligentinvestors2020.splashthat.com/">The Intelligent Investor Real Estate Conference</a> offer a place for investors to learn and grow.
 
 ---
 
