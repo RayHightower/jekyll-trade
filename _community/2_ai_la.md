@@ -1,6 +1,6 @@
 ---
 layout: featured
-title: AI.LA
+title: AI LA
 image: /assets/img/community/AILA_logo2.png
 link: https://www.joinai.la/
 description: Artificial Intelligence plays a powerful role in today's software. The best way to stay in the loop on rapidly-moving technology is to join with like-minded technologists and entrepreneurs. That’s why we support the Los Angeles AI community through <a href="https://www.joinai.la/">AI LA</a>.
