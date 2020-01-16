@@ -1,7 +1,7 @@
 ---
 layout: featured
 title: Flexible Closing Date 
-icon: /assets/img/icons/ambulance-solid.svg
+icon: /assets/img/icons/calendar.svg
 image: /assets/img/services/03.jpg
 description: Do you need a quick closing? We’re equipped to make that happen. Or, do you need to close on a more deliberate schedule, perhaps to manage tax effects? Let’s figure out how to work together.
 ---
