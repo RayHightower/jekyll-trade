@@ -166,6 +166,7 @@ blockquote {
 }
 .logo img {
 	margin-top: 20px;
+	width: 180px; /* Reduced logo size for mobile devices. */
 }
 .slider-content h1 {
 	font-size: 40px;
