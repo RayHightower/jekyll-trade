@@ -880,6 +880,14 @@ label {
 .white-text a:hover {
 	background: none;
 }
+.video-text a {
+	border-radius: 30px;
+	border: 0px solid #000099;
+}
+.video-text a:hover {
+	background: none;
+}
+
 .owl-carousel .owl-item img {
 	display: block;
 	width: inherit;
