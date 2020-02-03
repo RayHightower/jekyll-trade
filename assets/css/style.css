@@ -758,6 +758,7 @@ label {
 	border: 1px solid #e6e6e6;
 	padding: 50px 30px;
 }
+/* Don't do the hover, per RTH.
 .features-wrap:hover {
 	background-image: url(../img/about/5.jpg);
 	background-size: cover;
@@ -768,6 +769,7 @@ label {
 .features-wrap:hover h4,.features-wrap:hover p{
 	color: #fff;
 }
+*/
 .features-wrap h4 {
 	font-weight: 600;
 	color: #1e2331;
