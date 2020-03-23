@@ -642,6 +642,26 @@ label {
 .slider-content h1 span {
 	color: #ff5e14;
 }
+.slider-content h2 {
+	font-size: 30px;
+	font-weight: 800;
+	color: #fff;
+	line-height: 1.2;
+	margin-bottom: 20px;
+}
+.slider-content h2 span {
+	color: #ff5e14;
+}
+.slider-content ul li {
+	list-style-type: square;
+	margin-left: 35px;
+	font-size: 30px;
+	font-weight: 800;
+	color: #fff;
+	line-height: 1.2;
+	margin-bottom: 20px;
+}
+
 .slider-content p {
 	font-size: 16px;
 	color: #fff;
