@@ -3,7 +3,7 @@ layout: featured
 title: Quicker Decisions
 icon: /assets/img/icons/algolia-brands.svg
 image: /assets/img/services/02.jpg
-description: Our team has a clear vision of what we want to acquire. Approach us with a deal and we’ll give you a yes/no decision in rapid fashion.
+description: Approach us with a deal and we’ll give you a yes/no decision in rapid fashion. Our team has a clear vision of what we want to acquire, and we respect your time.
 ---
 
 <div class="row">

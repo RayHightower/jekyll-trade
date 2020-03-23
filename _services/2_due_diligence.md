@@ -3,7 +3,7 @@ layout: featured
 title: Easier Due Diligence
 image: /assets/img/services/01.jpg
 icon: /assets/img/icons/layer-group-solid.svg
-description: If there’s a due diligence document that you don’t have, we can still explore your deal. Maybe we can use our models or experience to fill in the gaps.
+description: Are you missing a detailed breakdown of income/expenses or other documents? We can help. For example, sometimes we can use our models and experience to fill in the gaps.
 ---
 
 <div class="row">
