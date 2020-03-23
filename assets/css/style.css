@@ -647,7 +647,8 @@ label {
 	font-weight: 800;
 	color: #fff;
 	line-height: 1.2;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
+	/* margin-top: 50px; */
 }
 .slider-content h2 span {
 	color: #ff5e14;
@@ -659,7 +660,7 @@ label {
 	font-weight: 800;
 	color: #fff;
 	line-height: 1.2;
-	margin-bottom: 20px;
+	/* margin-bottom: 20px; */
 }
 
 .slider-content p {

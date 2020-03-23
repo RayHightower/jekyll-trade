@@ -171,6 +171,9 @@ blockquote {
 .slider-content h1 {
 	font-size: 40px;
 }
+.slider-content h2 {
+	/* margin-top: 50px; */
+}
 .slider-content p {
 	font-size: 14px;
 }
