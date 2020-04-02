@@ -17,6 +17,10 @@ mailchimp_input_name: "b_307862c135e4548eecf86f389_342411fb35"
 
 permalink: "/:title"
 
+sliderhead: "Bridgetown serves the <span>commercial real estate</span> industry by:"
+sliderbullet1: "Buying properties."
+sliderbullet2: "Building software."
+slidersmalltext: "The Bridgetown Partners leadership team has closed commercial real estate deals in multiple asset classes. We are actively buying apartment properties. If you are selling, contact Bridgetown."
 
 # Build settings
 markdown: kramdown
