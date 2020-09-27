@@ -3,7 +3,7 @@ layout: featured
 title: BizDay.LA
 image: /assets/img/community/BizDayLA.png
 link: https://BizDay.LA
-description: <a href="http://bizday.la">BizDay.LA</a> is a YouTube channel for business enthusiasts. The channel covers a range of business topics including marketing, technology, growth, investments, and exits. Bridgetown Partners joined forces with other global entrepreneurs to launch this resource. Visit <a href="http://bizday.la">BizDay.LA</a> for details.
+description: <a href="http://bizday.la">BizDay.LA</a> is a YouTube channel for business enthusiasts. The channel covers a range of business topics including marketing, technology, growth, investments, and exits. Bridgetown Partners created BizDay.LA in collaboration with other global entrepreneurs. Visit <a href="http://bizday.la">BizDay.LA</a> for details.
 ---
 
 <div class="row">
