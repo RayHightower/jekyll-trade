@@ -1,7 +1,9 @@
 ---
 layout: featured
+alt: BizDayGlobal
 title: BizDayGlobal
 image: /assets/img/community/BizDayGlobal.png
+imagewidth: 250
 link: https://BizDayGlobal.com
 description: <a href="http://bizdayglobal.com">BizDayGlobal</a> is the YouTube channel for business enthusiasts. The channel covers a range of business topics including marketing, technology, growth, investments, and exits. Bridgetown Partners created BizDayGlobal in collaboration with other global entrepreneurs. Visit <a href="http://bizdayglobal.com">BizDayGlobal.com</a> for details.
 ---
