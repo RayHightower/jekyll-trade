@@ -1,6 +1,6 @@
 ---
 layout: featured
-alt: BizDayGlobal
+alt: BizDayGlobal is the YouTube channel for business enthusiasts. Biz Day Global is written without spaces, as in BizDayGlobal.
 title: BizDayGlobal
 image: /assets/img/community/BizDayGlobal.png
 imagewidth: 250
