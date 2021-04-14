@@ -18,10 +18,10 @@ mailchimp_input_name: "b_307862c135e4548eecf86f389_342411fb35"
 permalink: "/:title"
 
 # DRY for the home page slider.
-sliderhead: "What is Bridgetown Partners?"
-sliderbullet1: "Buyer of <span>commercial real estate</span>."
-sliderbullet2: "Builder of software for the CRE industry."
-slidersmalltext: "Bridgetown has closed commercial real estate deals in multiple asset classes.<br/>We are actively buying apartment properties in the State of Arizona.<br/>If you are selling, contact Bridgetown."
+sliderhead: "What does Bridgetown Partners do?"
+sliderbullet1: "We buy <span>commercial real estate</span>."
+sliderbullet2: "We build software for the CRE industry."
+slidersmalltext: "Bridgetown has closed commercial real estate deals in multiple asset classes.<br/>We are actively buying apartment properties (40 to 100 units) in the State of Arizona.<br/>If you are selling, contact Bridgetown."
 
 # Build settings
 markdown: kramdown
