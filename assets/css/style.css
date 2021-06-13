@@ -896,6 +896,21 @@ label {
 	font-size: 34px;
 	margin-bottom: 20px;
 }
+.black-text h3 {
+	color: #000;
+	font-size: 34px;
+	margin-bottom: 20px;
+}
+.black-text p {
+	color: #000;
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+.white-text p {
+	color: #fff;
+	font-size: 15px;
+	margin-bottom: 20px;
+}
 .white-text a {
 	border-radius: 30px;
 	border: 2px solid #ff5e14;
@@ -905,7 +920,7 @@ label {
 }
 .video-text a {
 	border-radius: 30px;
-	border: 0px solid #000099;
+	border: 0px solid #000000;
 }
 .video-text a:hover {
 	background: none;
