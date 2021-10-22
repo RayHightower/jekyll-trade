@@ -9,11 +9,11 @@
 #     url: /pages/index-3
 - text: Sellers
   url: /#sellers
-- text: Operators
-  url: /#operators
+# - text: Operators
+#   url: /#operators
 - text: Community
   url: /#community
-- text: Login
+- text: Investor Login
   url: https://bridgetownpartners.invportal.com/
 - text: Contact
   url: /#contact
