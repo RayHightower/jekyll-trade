@@ -9,8 +9,6 @@
 #     url: /pages/index-3
 - text: Sellers
   url: /#sellers
-# - text: Operators
-#   url: /#operators
 - text: Community
   url: /#community
 - text: Investor Login
