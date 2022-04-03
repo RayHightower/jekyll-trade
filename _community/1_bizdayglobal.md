@@ -5,7 +5,7 @@ title: BizDayGlobal
 image: /assets/img/community/BizDayGlobal.png
 imagewidth: 250
 link: https://BizDayGlobal.com
-description: <a href="http://bizdayglobal.com">BizDayGlobal</a> is the video podcast for business enthusiasts. The channel interviews business leaders from all over the world, extracting their success secrets and sharing them with our subscribers. Visit <a href="http://bizdayglobal.com">BizDayGlobal.com</a> for details.
+description: <a href="http://bizdayglobal.com">BizDayGlobal</a> is the video podcast for business enthusiasts. The channel interviews business leaders from all over the world, extracting their success secrets and sharing them with our subscribers. Content is created in the USA and connected with the world. Visit <a href="http://bizdayglobal.com">BizDayGlobal.com</a> for details.
 ---
 
 <div class="row">
