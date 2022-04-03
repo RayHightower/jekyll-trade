@@ -5,7 +5,7 @@ title: BizDayGlobal
 image: /assets/img/community/BizDayGlobal.png
 imagewidth: 250
 link: https://BizDayGlobal.com
-description: <a href="http://bizdayglobal.com">BizDayGlobal</a> is the video podcast for business enthusiasts. The channel covers a range of business topics including marketing, technology, growth, investments, and exits. Bridgetown Partners created BizDayGlobal in collaboration with other global entrepreneurs. Visit <a href="http://bizdayglobal.com">BizDayGlobal.com</a> for details.
+description: <a href="http://bizdayglobal.com">BizDayGlobal</a> is the video podcast for business enthusiasts. The channel interviews business leaders from all over the world, extracting their success secrets and sharing them with our subscribers. Visit <a href="http://bizdayglobal.com">BizDayGlobal.com</a> for details.
 ---
 
 <div class="row">
