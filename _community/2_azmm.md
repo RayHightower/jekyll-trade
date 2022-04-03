@@ -1,9 +1,9 @@
 ---
 layout: featured
 alt: AZMM.org - Arizona Multifamily MasterMind Group
-title: AZMM.org
+title: Arizona Multifamily MasterMind
 image: /assets/img/community/azmm_logo.png
-imagewidth: 150
+imagewidth: 275
 link: https://azmm.org
 description: The Arizona Multifamily MasterMind Group (<a href="https://azmm.org">AZMM.org</a>) is the place where Arizona-focused multifamily investors share resources and learn from each other.  When like-minded people gather together for a shared purpose, every member of the group gets smarter. Napoleon Hill called it <i>the mastermind</i>. Bridgetown is a founding member of AZMM.org.
 ---

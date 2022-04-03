@@ -3,7 +3,7 @@ layout: featured
 alt: Family Office Club
 title: Family Office Club
 image: /assets/img/community/family_office_club_logo.jpg
-imagewidth: 250
+imagewidth: 300
 link: https://familyoffices.com/
 description: Bridgetown's CEO is a charter member of the <a href="https://familyoffices.com">Family Office Club</a>. Family offices are one way to preserve and grow wealth for the good of the community. Organizations like the Family Office Club offer a place for investors to learn from each other and grow.
 
