@@ -12,6 +12,8 @@
 - text: Community
   url: /#community
 - text: Investor Login
-  url: https://bridgetownpartners.invportal.com/
+  url: https://invest.bridgetownpartners.com/
+# - text: Investor Login
+#   url: https://bridgetownpartners.invportal.com/
 - text: Contact
   url: /#contact
