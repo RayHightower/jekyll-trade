@@ -1,11 +1,11 @@
 ---
 layout: featured
 alt: BizDayGlobal is the video podcast for business enthusiasts. Biz Day Global is written without spaces, as in BizDayGlobal.
-title: BizDayGlobal
+title: BizDayGlobal Podcast
 image: /assets/img/community/BizDayGlobal.png
 imagewidth: 250
 link: https://BizDayGlobal.com
-description: <a href="http://bizdayglobal.com">BizDayGlobal</a> is the video podcast for business enthusiasts. The channel interviews business leaders from all over the world, extracting their success secrets and sharing them with our subscribers. Content is created in the USA and connected with the world. Visit <a href="http://bizdayglobal.com">BizDayGlobal.com</a> for details.
+description: <a href="http://bizdayglobal.com">BizDayGlobal</a> is the video podcast for business enthusiasts. The channel interviews business leaders from all over the world, extracting their success secrets and sharing knowledge with our listeners. Subscribe on <a href="https://podcasts.apple.com/us/podcast/bizdayglobal-with-ray-hightower-of-bridgetown-partners/id1593774119">Apple Podcasts</a>, <a href="https://www.youtube.com/bizdayglobal">YouTube</a>, or anywhere else podcasts are offered. Details&#58; <a href="http://bizdayglobal.com">BizDayGlobal.com</a>.
 ---
 
 <div class="row">
