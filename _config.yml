@@ -22,7 +22,7 @@ sliderhead: "Bridgetown buys <span>commercial real estate</span>."
 sliderbullet1: "We buy <span>commercial real estate</span>."
 sliderbullet2: "We build software for the CRE industry."
 # slidersmalltext: "<ul><li>Bridgetown is actively buying apartment properties (50 to 150 units) in Arizona, Texas, and Tennessee.</li><li>Business owners and high net worth individuals are invited to invest in partnerships with us.</li><li>Our investors enjoy preservation of capital, tax advantages, and strong ROI.</li><li>When you are ready to invest, contact Bridgetown.</li></ul>"
-slidersmalltext: "Bridgetown is actively buying apartment properties (50 to 150 units) in Arizona, Texas, and Tennessee. Business owners and high net worth individuals are invited to invest in partnerships with us. Our investors enjoy preservation of capital, tax advantages, and strong ROI.<br/><br/>When you are ready to learn more, contact Bridgetown."
+slidersmalltext: "Bridgetown buys apartment properties (50 to 150 units) in Arizona, Texas, and Tennessee.<br/>Business owners and high net worth individuals invest in our partnerships.<br/>Our investors enjoy capital preservation, tax advantages, and strong ROI.<br/><br/>When you are prepared to invest, contact Bridgetown."
 
 # Build settings
 markdown: kramdown
