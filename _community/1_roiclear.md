@@ -5,7 +5,7 @@ title: ROIClear Podcast
 image: /assets/img/community/ROIClear.png
 imagewidth: 250
 link: https://ROIClear.com
-description: <a href="http://roiclear.com">ROIClear</a> is the video podcast for business leaders. ROIClear celebrates capitalism by interviewing business leaders from all over the world, extracting their success secrets and sharing knowledge with our listeners. Subscribe on <a href="https://podcasts.apple.com/us/podcast/bizdayglobal/id1593774119?itsct=podcast_box_appicon&itscg=30200&ls=1">Apple Podcasts</a>, <a href="https://www.youtube.com/@ROIClear">YouTube</a>, or anywhere else podcasts are offered. Details&#58; <a href="http://ROIClear.com">ROIClear.com</a>.
+description: <a href="http://roiclear.com">ROIClear</a> is the video podcast for business leaders. ROIClear celebrates capitalism by interviewing business leaders from all over the world, extracting their success secrets and sharing knowledge with our listeners. Subscribe on <a href="https://podcasts.apple.com/us/podcast/roiclear-with-ray-hightower-of-bridgetown-partners/id1593774119">Apple Podcasts</a>, <a href="https://www.youtube.com/@ROIClear">YouTube</a>, or anywhere else podcasts are offered. Details&#58; <a href="http://ROIClear.com">ROIClear.com</a>.
 ---
 
 <div class="row">
