@@ -5,7 +5,7 @@ title: Family Office Club
 image: /assets/img/community/family_office_club_logo.jpg
 imagewidth: 300
 link: https://familyoffices.com/
-description: Bridgetown's CEO, <a href="https://RayHightower.com">Ray Hightower</a>, is a charter member of the <a href="https://familyoffices.com">Family Office Club</a>. Family offices are one way to preserve and grow genrational wealth. Organizations like the Family Office Club offer a place for investors to learn from each other and grow.
+description: Bridgetown's CEO, <a href="https://RayHightower.com">Ray Hightower</a>, is a charter member of the <a href="https://familyoffices.com">Family Office Club</a>. Family offices are one way to preserve and grow generational wealth. Organizations like the Family Office Club offer a place for investors to learn from each other and grow.
 
 ---
 
